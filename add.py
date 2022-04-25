@@ -1,3 +1,5 @@
 a = int(input())
 b = int(input())
 print(a + b)
+print("the world is fast moving")
+print("the new world is comming to rule")

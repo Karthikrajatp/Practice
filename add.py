@@ -1,4 +1,4 @@
-a = 10
+a = 22
 b = 1
 print(a + b)
 print("the world is fast moving")
